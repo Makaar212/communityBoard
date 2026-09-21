@@ -4,8 +4,13 @@
 }
 
 a {
+  text-decoration: none;
 }
 .steamLink {
+  margin-bottom: 12px;
+  border-radius: 6px;
+  background-color: lightblue;
+  padding: 6px;
 }
 .card {
   display: flex;
