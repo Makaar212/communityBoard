@@ -1,8 +1,8 @@
 const Card = (props) => {
   return (
-    <div className="Card">
+    <div className="card">
       <img className="gameImage" src={props.image}></img>
-      <div>
+      <div className="notImage">
         <h3 className="gameTitle">{props.title}</h3>
         <h4 className="gameTheme">{props.theme}</h4>
         <button className="steamLink">

@@ -1,0 +1,14 @@
+.gameImage {
+  width: 200px;
+  height: 200px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.notImage {
+  text-align: center;
+}
