@@ -1,4 +1,4 @@
-# Web Development Project 1 - _Name of App Here_
+# Web Development Project 1 - Game Recs
 
 Submitted by: Reagan
 
@@ -23,7 +23,7 @@ The following **optional** features are implemented:
   - [✅] All cards have buttons or links in addition to text
 - [✅] The site is responsive for both desktop and mobile formats
   - [✅] Web app is shown in a mobile format
-  - [ ] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop _and_ a mobile format. Detailed instructions can be found below this stretch feature on the project page.
+  - [✅] **Video Walkthrough Special Instructions**: To ease the grading process, please use Chrome Developer Tools' "Toggle Device" button to demonstrate that your web application's responsiveness in both a desktop _and_ a mobile format. Detailed instructions can be found below this stretch feature on the project page.
 
 The following **additional** features are implemented:
 
