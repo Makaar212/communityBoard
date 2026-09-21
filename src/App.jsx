@@ -4,7 +4,7 @@ import eldenRing from "./assets/eldenRing.avif";
 const App = () => {
   return (
     <div>
-      <h1>Great Video Games To Try! </h1>
+      <h1 className="pageTitle">Great Video Games To Try! </h1>
       <div className="videoGameContainer">
         <Card
           title="Elden Ring"
