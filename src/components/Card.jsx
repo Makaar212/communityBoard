@@ -6,7 +6,9 @@ const Card = (props) => {
         <h2 className="gameTitle">{props.title}</h2>
         <h4 className="gameTheme">{props.theme}</h4>
         <button className="steamLink">
-          <a href={props.link}>View On Steam</a>
+          <a href={props.link} rel="noopener noreferrer" target="_blank">
+            View On Steam
+          </a>
         </button>
       </div>
     </div>
